@@ -1,4 +1,7 @@
 # Gaussian Mixture Model
+
+[![hackmd-github-sync-badge](https://hackmd.io/LEwN57RUSbWiBhFfdbZqpQ/badge)](https://hackmd.io/LEwN57RUSbWiBhFfdbZqpQ)
+
 ###### tags: `Machine Learning` `GMM`
 
 ## Key Component :key: 
